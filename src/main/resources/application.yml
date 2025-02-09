@@ -7,4 +7,5 @@ spring:
       server:
         git:
           uri: https://github.com/Dzsodie/melita-config-repo
-          default-label: main
+          username: Dzsodie
+          password: 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
