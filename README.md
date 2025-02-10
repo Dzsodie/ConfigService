@@ -10,7 +10,12 @@ This project is a demo for the Melita interview process, it's main purpose is to
 ## Features
 - creates config server to connect to config repo for all services
 ## Installation
-Clone the repository from GitHub.
+1. Make sure that GitHub credentials are added to your system path.
+    ```shell
+    export GIT_USERNAME=[GitHub Username]
+    export GIT_PASSWORD=[GitHub Personal Access Token]
+    ```
+2. Clone the repository from GitHub.
     ```shell
     git clone  https://github.com/Dzsodie/ConfigService.git
     ```
